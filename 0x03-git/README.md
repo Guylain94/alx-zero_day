@@ -1,1 +1,1 @@
-git
+Staring to code today,so cool
